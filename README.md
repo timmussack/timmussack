@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tim Mussack, U.S. Army veteran and software engineer. Welcome to my GitHub page!
+### Hi there 👋 I'm Tim Mussack, U.S. Army veteran and software engineer. Welcome to my GitHub page!
 
 I enjoy the entire development process. Working with a team, solving hard problems, writing & de-bugging code, testing, deployment & celebrating wins! I am currenlty learning more about AWS cloud computing services.
 
@@ -9,4 +9,7 @@ I enjoy the entire development process. Working with a team, solving hard proble
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-d3d3d3?logo=tailwindcss&logoColor=blue&style=for-the-badge)
 ![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-DCDCDC?logo=express&logoColor=black&style=for-the-badge)
+![Axios](https://img.shields.io/badge/-Axios-671ddf?logo=axios&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=black&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-white?logo=nginx&logoColor=green&style=for-the-badge)
