@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Tim Mussack. Welcome to my GitHub page!
+### Hi there 👋, I'm Tim Mussack, U.S. Army veteran and software engineer. Welcome to my GitHub page!
 
-Software Engineer | Javascript | React | Node.js | MongoDB | Postgresql | AWS EC2 | Agile | U.S. Army Veteran
+I enjoy the entire development process. Working with a team, solving hard problems, writing & de-bugging code, testing, deployment & celebrating wins! I am currenlty learning more about AWS cloud computing services.
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -10,8 +10,3 @@ Software Engineer | Javascript | React | Node.js | MongoDB | Postgresql | AWS EC
 ![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-DCDCDC?logo=express&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=black&style=for-the-badge)
-
-- 🔭 I’m currently working on finding a job! If you have any leads, tips or advice please reach out.
-- 🌱 I’m currently learning more about AWS cloud services.
-- 📫 How to reach me: tim.mussack@gmail.com, here on GitHub or timmussack on LinkIn
-- ⚡ Fun fact: I love making Neopalitan pizza.
