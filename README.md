@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Tim Mussack. Welcome to my GitHub page!
 
-<!--
-**timmussack/timmussack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Javascript | React | Node.js | MongoDB | Postgresql | AWS EC2 | Agile | U.S. Army Veteran
 
-Here are some ideas to get you started:
+## Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white&style=for-the-badge)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-d3d3d3?logo=tailwindcss&logoColor=blue&style=for-the-badge)
+![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-DCDCDC?logo=express&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=black&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on finding a job! If you have any leads, tips or advice please reach out.
+- 🌱 I’m currently learning more about AWS cloud services.
+- 📫 How to reach me: tim.mussack@gmail.com, here on GitHub or timmussack on LinkIn
+- ⚡ Fun fact: I love making Neopalitan pizza.
