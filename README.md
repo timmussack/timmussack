@@ -17,5 +17,6 @@ I enjoy the entire development process. Working with a team, solving hard proble
 ![Nginx](https://img.shields.io/badge/-Nginx-white?logo=nginx&logoColor=green&style=for-the-badge)
 
 ## Contact
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="timmussack" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/timmussack?trk=profile-badge">Tim Mussack</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="timmussack" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/timmussack?trk=profile-badge">Tim Mussack - linkedin</a></div>
+              
               
