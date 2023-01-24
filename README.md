@@ -1,3 +1,5 @@
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+
 ### Hi there 👋 I'm Tim Mussack, U.S. Army veteran and software engineer. Welcome to my GitHub page!
 
 I enjoy the entire development process. Working with a team, solving hard problems, writing & de-bugging code, testing, deployment & celebrating wins! I am currenlty learning more about AWS cloud computing services.
@@ -13,3 +15,7 @@ I enjoy the entire development process. Working with a team, solving hard proble
 ![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-white?logo=nginx&logoColor=green&style=for-the-badge)
+
+## Contact
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="timmussack" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/timmussack?trk=profile-badge">Tim Mussack</a></div>
+              
